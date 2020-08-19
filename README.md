@@ -1,2 +1,3 @@
 # ML2
-ML2 Summer Semester 2019
+
+Problems and solutions for Machine Learning 2 (SoSe19) course at TU Berlin. 
